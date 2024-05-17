@@ -1,0 +1,2 @@
+@Test: This annotation marks the testAddition() method as a test method.
+Calculator.add(3, 7): This calls a method from a hypothetical Calculator class and asserts that the result should be 10 using assertEquals.
